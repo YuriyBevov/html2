@@ -51,10 +51,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuriyBevov/wish_promo.git"
+    "url": "git+https://github.com/YuriyBevov/html2.git"
   },
   "bugs": {
-    "url": "https://github.com/YuriyBevov/wish_promo/issues"
+    "url": "https://github.com/YuriyBevov/html2/issues"
   },
-  "homepage": "https://github.com/YuriyBevov/wish_promo#readme"
+  "homepage": "https://github.com/YuriyBevov/html2#readme"
 }
